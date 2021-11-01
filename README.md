@@ -68,7 +68,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 Press the below button to Fast deploy on Heroku
 
 <p>
-<a href="https://www.heroku.com/deploy?template=https://github.com/MovieClub-Family/Pyro-FileStreamBot/tree/master">
+<a href="https://www.heroku.com/deploy?template=https://github.com/MovieClub-Family/Pyro-FileStreamBot/tree/main">
   <img width=180 src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
